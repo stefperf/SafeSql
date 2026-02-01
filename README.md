@@ -1,2 +1,2 @@
 # SafeSql
-Utilities to easily compose dynamic SQL for pyodbc &amp; MsSql without risking SQL injection
+Python utilities to easily compose dynamic SQL for pyodbc and MsSql without risking SQL injection
